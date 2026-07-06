@@ -1,7 +1,1 @@
-{
-  "functions": {
-    "api/lark-webhook.js": {
-      "runtime": "nodejs22.x"
-    }
-  }
-}
+{}
