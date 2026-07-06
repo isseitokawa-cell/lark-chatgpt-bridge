@@ -1,0 +1,13 @@
+{
+  "name": "lark-chatgpt-bridge",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@larksuiteoapi/node-sdk": "^1.68.0"
+  }
+}
